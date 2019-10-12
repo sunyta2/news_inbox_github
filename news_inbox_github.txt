@@ -1,0 +1,18 @@
+서초동서 '검찰개혁' 대규모 집회..'조국규탄' 맞불집회도 | Daum 뉴스: https://news.v.daum.net/v/20191012143139655?d=y
+
+北 "우리 어선 침몰시킨 日정부, 배상해야" | Daum 뉴스: https://news.v.daum.net/v/20191012170224154
+
+"조국 퇴진" 보수단체 맞불 집회..대학로에선 대학생연합 촛불집회 | Daum 뉴스: https://news.v.daum.net/v/20191012181419026
+
+
+
+
+
+To see how much disk space is left on your partitions, use
+
+        df -h
+                -- Dru <genesis@istar.ca>
+
+Simple tcsh prompt: set prompt = '%# '
+
+fail to querying some dictionary
